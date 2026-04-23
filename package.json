@@ -1,0 +1,12 @@
+{
+  "name": "env-outside",
+  "version": "1.0.0",
+  "description": "Load .env files from outside your project folder",
+  "main": "index.js",
+  "keywords": ["env", "dotenv", "environment", "config", "secrets"],
+  "author": "Martin Borches",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
